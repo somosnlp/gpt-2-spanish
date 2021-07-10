@@ -1,3 +1,12 @@
+---
+language: es
+tags:
+- causal-lm
+- text-generation
+datasets:
+- oscar
+---
+
 # GPT-2 Spanish
 
 GPT-2 model pre-trained from scratch using the Spanish portion of OSCAR during the [Flax x Hugging Face](https://discss.huggingface.co/t/open-to-the-community-community-week-using-jax-flax-for-nlp-cv/7104) community event by
